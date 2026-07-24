@@ -1,4 +1,3 @@
-## Hi there 👋
 <!-- ============================================================
      1. HERO BANNER
      ============================================================ -->
@@ -9,15 +8,15 @@
 <!-- ============================================================
      2. TYPING HEADER
      ============================================================ -->
-<a href="https://github.com/ashwathkrishnaa12pv">
+<a href="https://github.com/ashwathkrishnaa">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Ashwathkrishnaa+PV+%F0%9F%91%8B;Full-Stack+MERN+%2F+Next.js+Developer;DSA+%7C+1615%2B+LeetCode+Rating;Building+Real-World+Apps+that+Solve+Real+Problems" alt="Typing SVG" />
 </a>
 
 <p>
   <a href="mailto:ashwathkrishnaa.pv2024cce@sece.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ashwathkrishnaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ashwathkrishnaa12pv"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/ashwathkrishnaa12pv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://github.com/ashwathkrishnaa"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/ashwathkrishnaa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </p>
 
 </div>
@@ -117,12 +116,12 @@ public class Ashwathkrishnaa {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwathkrishnaa12pv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwathkrishnaa12pv&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwathkrishnaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwathkrishnaa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwathkrishnaa12pv&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=ashwathkrishnaa&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -135,7 +134,7 @@ public class Ashwathkrishnaa {
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashwathkrishnaa12pv&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashwathkrishnaa&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
@@ -250,7 +249,7 @@ Sri Vidhya Mandhir CBSE School  |  64.8%  |  2022 - 2024
   <a href="https://linkedin.com/in/ashwathkrishnaa">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/ashwathkrishnaa12pv">
+  <a href="https://github.com/ashwathkrishnaa">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -262,21 +261,7 @@ Sri Vidhya Mandhir CBSE School  |  64.8%  |  2022 - 2024
      ============================================================ -->
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwathkrishnaa12pv&label=Profile%20Views&color=6d11c9&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=ashwathkrishnaa&label=Profile%20Views&color=6d11c9&style=flat-square" />
   <br/><br/>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 </div>
-<!--
-**ashwathkrishnaa/ashwathkrishnaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
